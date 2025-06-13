@@ -72,7 +72,7 @@ EMAIL_PASS=your_email_password
 #### ▶️ Run Backend
 
 \`\`\`bash
-nodemon server.js
+npm run dev / nodemon server.js
 \`\`\`
 
 ### 🌐 3. Setup Frontend
